@@ -8,5 +8,10 @@
     "op":"replace",
     "path":"/armRunSeq",
     "value" : [6, 7, 6, 8, 6, 7, 6, 8]
+  },
+  {
+    "op":"replace",
+    "path":"/personalities",
+    "value" : [["idle.2","swim.2",[0,0],[1,-1]]]
   }
 ]
