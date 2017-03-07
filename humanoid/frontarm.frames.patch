@@ -13,16 +13,32 @@
   {
     "op":"add",
     "path":"/frameList/run.6",
-    "value":[344, 7, 387, 50]
+    "value":[214, 214, 257, 257]
   },
   {
     "op":"add",
     "path":"/frameList/run.7",
-    "value":[344, 8, 387, 51]
+    "value":[214, 215, 257, 258]
   },
   {
     "op":"add",
     "path":"/frameList/run.8",
-    "value":[344, 6, 387, 49]
+    "value":[214, 213, 257, 256]
+  }
+],[
+  {
+    "op":"add",
+    "path":"/aliases/walk.6",
+    "value":"run.6"
+  },
+  {
+    "op":"add",
+    "path":"/aliases/walk.7",
+    "value":"run.7"
+  },
+  {
+    "op":"add",
+    "path":"/aliases/walk.8",
+    "value":"run.8"
   }
 ]]
