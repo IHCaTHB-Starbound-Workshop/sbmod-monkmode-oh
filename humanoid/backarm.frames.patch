@@ -1,0 +1,28 @@
+[[
+  {
+    "op":"test",
+    "path":"/frameList",
+    "inverse":true
+  },
+  {
+    "op":"add",
+    "path":"/frameList",
+    "value":{}
+  }
+],[
+  {
+    "op":"add",
+    "path":"/frameList/run.6",
+    "value":[344, 7, 387, 50]
+  },
+  {
+    "op":"add",
+    "path":"/frameList/run.7",
+    "value":[344, 8, 387, 51]
+  },
+  {
+    "op":"add",
+    "path":"/frameList/run.8",
+    "value":[344, 6, 387, 49]
+  }
+]]
