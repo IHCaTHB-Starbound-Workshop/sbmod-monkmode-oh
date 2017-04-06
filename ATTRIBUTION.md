@@ -27,7 +27,7 @@ and viewers, like you.
 
 [714236]: http://community.playstarbound.com/members/714236
 
-[The Honey Badger]: https://steamcommunity.com/profiles/76561197966846799/myworkshopfiles/
+[The Honey Badger]: https://steamcommunity.com/profiles/76561197966846799/myworkshopfiles/?appid=211820
 
 [IsaacHart]: https://github.com/IHCaTHB-Starbound-Workshop
 
